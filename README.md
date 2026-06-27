@@ -2,7 +2,7 @@ How to Run
 
     1   Clone this repository:  
         
-        git clone  
+        git clone https://github.com/ilhamya717/monkey-poses.git
         
         cd monkeyposes  
     
