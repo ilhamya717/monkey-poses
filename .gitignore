@@ -1,18 +1,14 @@
-# Virtual environment
 venv/
 env/
 .venv/
 
-# VS Code
 .vscode/
 
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# OS files
+
 .DS_Store
 Thumbs.db
-# macOS
 .DS_Store
